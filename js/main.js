@@ -1,32 +1,3 @@
-var a=35;
-var b = 'Привет';
-var c = true;
-
-// a = prompt('Напишите значение переменной a');
-// if (a == 37) {
-//     alert('a = 37');
-// } else {
-//     alert('что то другое')  
-// }
-// for (
-//     var i = 0; 
-//     i<5; 
-//     i++
-//     ) {
-//         alert(i);
-//     }
-var user = {
-    'name': 'Петья',
-    'surname': 'Васичкин',
-    'age': 25
-}
-// alert(user['name']);
-// alert(user.surname);
-// var mas = ['Петья', 'Васичкин', '25'];
-// alert(mas[0])
-// function doMagic (a,b) {
-//     alert(a+b);
-// }
 // doMagic(5,5);
 // var btn = document.getElementById('btn')
 // btn.onclick = function () {
